@@ -13,7 +13,4 @@ This is a full-stack Student Management Application built with:
 - Persistent H2 database with access at `/h2-console`
 - Developer mode note: "All data is stored in live backend. Refresh to verify."
 
-## 📂 Structure
-spring-boot-project/
-├── student-management-frontend/ --> React UI
-└── student-management/ --> Spring Boot App
+
